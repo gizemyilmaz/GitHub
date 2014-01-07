@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sinyal Çekim Gücü Uygulaması</string>
+    <string name="button_title">GSM Operatörünü Denetle</string>
+    <string name="button_title2">Konumu Göster</string>
+
+</resources>
